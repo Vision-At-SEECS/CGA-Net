@@ -1,0 +1,1 @@
+This 'results-demo' folder will contain the upsampling results once the demo script is run.
