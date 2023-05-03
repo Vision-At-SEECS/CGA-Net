@@ -91,4 +91,6 @@ Adeel Mumtaz <adeelmumtaz@gmail.com>
 
 Zuhair Zafar <zuhair.zafar@seecs.edu.pk>
 
+Mohamed Sedkey <mhs2@staffs.ac.uk>
+
 Muhammad Moazam Fraz <mfraz@turing.ac.uk>
