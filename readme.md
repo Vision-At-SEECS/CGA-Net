@@ -18,7 +18,7 @@ We conduct several experiments to evaluate the effectiveness of our SR framework
 
 ## Network
 
-![CGAN Super Resolution Framework](/figures/CGAN.png)
+![CGAN Super Resolution Framework](/figures/CGA-Net_complete.png)
 
 ## Setup
 The setup can be done through one  of the following methods:
